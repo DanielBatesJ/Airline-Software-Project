@@ -1,0 +1,5 @@
+Co-Pilot	Jared Bates	2222	Scheduled	1234	100
+Cabin Crew	Molly Bates	3333	Scheduled	First Class
+Cabin Crew	Julie Bates	4444	Scheduled	Business
+Cabin Crew	Chris Bates	5555	Scheduled	Economy
+Pilot	Daniel Bates	1111	Scheduled	12345	100
